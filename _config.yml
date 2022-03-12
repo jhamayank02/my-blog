@@ -27,6 +27,14 @@ url: "https://jhamayank02.github.io" # the base hostname & protocol for your sit
 twitter_username: jekyllrb
 github_username:  jhamayank02
 
+
+# Added later (Not supported by default)
+author: Mayank Jha
+
+copyright: "Machine Language"
+
+# title-logo: /images/title-logo.png
+
 # Build settings
 # Removed minima theme as it is now a regular theme.
 # theme: minima
